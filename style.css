@@ -1,0 +1,13 @@
+div {
+    border-style: solid;
+    line-height: 1.8em;
+    text-align: center;
+    background-color: aqua;
+    background-image: url('http://farm2.staticflickr.com/1239/552169545_5ed613de36_b.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+img {
+    border-radius: 30px;
+    
+}
